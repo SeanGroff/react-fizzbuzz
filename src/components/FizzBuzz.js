@@ -45,7 +45,7 @@ export default function FizzBuzz({
   handleIncrementClick,
 }) {
   return (
-    <Wrapper className="App">
+    <Wrapper>
       <Header>
         <h1>React FizzBuzz</h1>
       </Header>
